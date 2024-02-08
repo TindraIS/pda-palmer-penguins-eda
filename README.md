@@ -14,6 +14,4 @@ Repository capturing the exploratory data analysis done for Palmers Penguins dat
 
 
 
-[^1] [Towards data science. The Iris dataset - A little bit of history and biology]
-(https://towardsdatascience.com/
-the-iris-dataset-a-little-bit-of-history-and-biology-fb4812f5a7b5)\
+[^1]: This is a test
