@@ -2,7 +2,7 @@
 
 
 ## Description
-Repository capturing the exploratory data analysis done for Palmers Penguins dataset for Principles of Data Analytics module. [^1]
+Repository capturing the exploratory data analysis done for Palmers Penguins dataset for Principles of Data Analytics module. [^1] [^2]
 
 ## Getting Started
 
@@ -14,4 +14,6 @@ Repository capturing the exploratory data analysis done for Palmers Penguins dat
 
 
 
-[^1]: This is a test
+[^1]: This is a test.
+
+[^2]: This is another test. 
