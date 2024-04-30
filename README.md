@@ -1,5 +1,5 @@
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TindraIS/pda-palmer-penguins-eda/main/images/dark_header.png>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TindraIS/pda-palmer-penguins-eda/main/images/dark_header.png">
   <img alt="Light header" src="https://raw.githubusercontent.com/TindraIS/pda-palmer-penguins-eda/main/images/light_header.png">
 </picture>
 
