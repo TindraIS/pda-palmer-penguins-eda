@@ -1,4 +1,7 @@
-# Palmer Penguins Dataset: Exploratory Data Analysis
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TindraIS/pda-palmer-penguins-eda/main/images/dark_header.png>
+  <img alt="Light header" src="https://raw.githubusercontent.com/TindraIS/pda-palmer-penguins-eda/main/images/light_header.png">
+</picture>
 
 ## Description
 Repository capturing the exploratory data analysis done for Palmers Penguins dataset for Principles of Data Analytics module. [^1] [^2]
@@ -24,6 +27,10 @@ Clickable badge generated using [OpeninColab](https://openincolab.com/) to open 
 
    A file that specifies which intentionally untracked files that Git should ignore.
 
+* `/images`
+
+   Folder containing the images used in the header of this README file.
+
 ## Getting Started
 
 ### Dependencies
@@ -45,3 +52,4 @@ Irina S.
 
 
 [^1]: [Palmer Penguins GitHub Repository]( https://github.com/allisonhorst/palmerpenguins)
+[^2]: [README header inspired by Pandas GitHub Repository](https://github.com/pandas-dev/pandas)
