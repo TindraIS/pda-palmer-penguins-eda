@@ -1,31 +1,47 @@
-# pda-palmer-penguins-eda
-
+# Palmer Penguins Dataset: Exploratory Data Analysis
 
 ## Description
 Repository capturing the exploratory data analysis done for Palmers Penguins dataset for Principles of Data Analytics module. [^1] [^2]
 
-    **Tasks (40%)**
-    1. Create a GitHub repository with a README.md and a .gitignore. Add a Jupyter notebook called penguins.ipynb and add a title to it.
-    2. Find the palmerpenguins data set online and load it into your Jupyter notebook. In your notebook, give an overview of the data set and the variables it contains.
-    3. Suggest the types of variables that should be used to model the variables in the data set in Python, explaining your rationale.
-    4. Create a bar chart of an appropriate variable in the data set. Then create a histogram of an appropriate variable in the data set.
+## Quickstart
 
-    **Project (40%)**
-    Select two variables from the data set and provide an analysis of how correlated they are.
+<a target="_blank" href="https://colab.research.google.com/github/TindraIS/pda-palmer-penguins-eda/blob/main/penguins.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
-    **Presentational Component (20%)**
-    Ensure your repository is tidy, with no unnecessary items. Ensure your README.md and .gitignore files are appropriate. Make sure your notebook contains a single cohesive narrative about the data set.
+Clickable badge generated using [OpeninColab](https://openincolab.com/) to open the `penguins.ipynb` notebook in Google Colab.
+
+## Contents
+
+* `penguins.ipynb`
+
+   A Jupyter Notebook containing the analysis of the Palmer Penguins dataset.
+
+* `README.md`
+    This file. Contains instructions on how to run the analysis notebook, as well as information about the repository contents.
+
+* `.gitignore`
+
+   A file that specifies which intentionally untracked files that Git should ignore.
 
 ## Getting Started
 
 ### Dependencies
-* VSCode Extensions
-    * Markdown Footnote  
-    * :emojisense: 
+* Python 3.11.7 kernel
+* Python Modules
+    - Pandas
+    - Matplotlib
+    - Seaborn
+    - NumPy
+    - Warnings
+* Any IDE of personal choice to run the notebook in a local environment. The author used Visual Studio Code in the development.
+
+## Get Help
+
+For any issues with the code, please refer to GitHub's Issues section and create a new ticket.
+
+## Author
+Irina S.
 
 
-
-
-[^1]: This is a test.
-
-[^2]: This is another test. 
+[^1]: [Palmer Penguins GitHub Repository]( https://github.com/allisonhorst/palmerpenguins)
