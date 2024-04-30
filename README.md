@@ -41,7 +41,7 @@ Clickable badge generated using [OpeninColab](https://openincolab.com/) to open 
     - Seaborn
     - NumPy
     - Warnings
-* Any IDE of personal choice to run the notebook in a local environment. The author used Visual Studio Code in the development.
+* Any IDE of personal choice to run the notebook in a local environment. The author used Visual Studio Code in the development. Also, please note that the `.ipynb` file in this repository contains a table of contents with internal links that [cannot be rendered by GitHub](https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files), therefore it's advisable to clone the repository with `git clone https://github.com/TindraIS/pda-palmer-penguins-eda.git`and run it locally.
 
 ## Get Help
 
